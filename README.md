@@ -1,3 +1,3 @@
 # Practice
 
-Nate Polly Practice Programs For Interviews.
+Nate Polly Practice Programs.
